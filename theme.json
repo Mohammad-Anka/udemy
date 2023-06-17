@@ -53,7 +53,8 @@
                 },
                 "typography": {
                     "fontFamilies": [
-                        { "fontFamily": "Pacifico, sans-serif",
+                        { 
+                            "fontFamily": "Pacifico, sans-serif",
                             "slug": "u-pacifico",
                             "name":"Udemy Pacifico"
                         }
@@ -81,7 +82,8 @@
         },
         "typography": {
             "fontFamilies": [
-                { "fontFamily": "Rubik, sans-serif",
+                { 
+                    "fontFamily": "Rubik, sans-serif",
                     "slug": "u-rubik",
                     "name":"Udemy Rubik"
                 }
@@ -122,9 +124,7 @@
         },
         "elements": {
             "link":{
-                "color": {
-                    "text": "var(--wp--preset--color--u-primary) !important"
-                }
+                "color": {}
             }
             
         },
